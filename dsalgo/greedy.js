@@ -1,0 +1,9 @@
+// to find optimal solution ..for shortedst path...getting best car etc..based on some set criteria
+
+//knaspshack problemo
+// job sequencing problemo...
+//optimal merge problemo problem
+//prims and krushaq algorithm
+//single sortest path...
+//multistage graph...
+//
